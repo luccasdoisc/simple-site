@@ -13,10 +13,14 @@ li {
 #msg {
     font-family: monospace;
 }
-.light-theme {
+/*.light-theme {
     color: #000000;
     background: #00FF00;
 }
+
+The code above was on the course but theres a error.
+
+*/
 :root {
     --green: #00FF00;
     --white: #ffffff;
